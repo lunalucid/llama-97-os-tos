@@ -217,25 +217,19 @@ Steam, the Steam logo, and Steamworks are trademarks of Valve Corporation. Disco
 
 ---
 
-## 10. Privacy (summary)
+## 10. Privacy
 
-This section is a summary of how the Service handles information. It is meant to satisfy platform reviewers who need to see data practices alongside these Terms. If we publish a separate Privacy Policy, that policy controls if there is a conflict.
+Our [Privacy Policy](./PRIVACY.md) describes what information the Service processes, how we use it, how long we keep it, and your choices. **If anything in these Terms conflicts with the Privacy Policy on privacy or data-handling questions, the Privacy Policy controls.**
 
-**What we intend not to do today**
+In brief:
 
 - We do not sell your personal information
 - We do not operate a Discord bot that reads your messages or server member lists
+- Discord integration is optional Rich Presence only; we do not currently use Discord OAuth
 - Local AI chat and image generation are designed to stay on your device
+- Steam and Discord each process their own platform data under their privacy policies
 
-**Steam.** If you launch through Steam, the Steamworks SDK may provide us (on your device) with information such as your Steam ID, persona name, online status, friends list, language, and similar Steam account data needed for identity, overlay, friends, Workshop, and multiplayer. Steam also processes data under Valve’s privacy policy. We do not receive your Steam password.
-
-**Discord.** If Discord is running, the Service may send Rich Presence activity (for example that you are using Llama 97 OS, and a short status line) to the Discord client using our Discord application ID. Discord processes that activity under Discord’s privacy policy. We do not receive your Discord password. We do not currently use Discord OAuth to collect your Discord email, friend list, or guild membership.
-
-**Device and generated files.** The Service stores files on your computer (settings, documents, generated images, downloaded models). System information may be read locally to display hardware stats or choose an AI backend.
-
-**Our servers.** If we later add optional cloud accounts, telemetry, or hosted multiplayer that is not solely Steam-relayed, we will update this section and any Privacy Policy with what is collected, why, and how long it is kept.
-
-**Your choices.** You can close Discord to stop Rich Presence. You can use Steam’s own privacy settings for friends and profile visibility. You can delete local app data on your device.
+For Discord application verification and similar platform reviews, the public URL of our Privacy Policy is the current privacy disclosure.
 
 ---
 
